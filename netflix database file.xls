@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,Region,Subscription_Plan,Movie_ID,Title,Category,Type,Rating,Watch_Count,Watch_Date,Watch_Time_Minutes,Language,Device,Payment_Method,Monthly_Revenue
+CUST0001,Amit Das,South,Standard,MOV1001,Damsel,Fantasy,Movie,1,9,2026-03-27,159,Japanese,Laptop,UPI,499
+CUST0002,Pooja Sharma,East,Premium,MOV1002,Squid Game,Thriller,TV Show,1,23,2026-04-30,142,Korean,TV,PayPal,649
+CUST0003,Arjun Patil,South,Premium,MOV1003,The Gray Man,Action,Movie,5,18,2026-04-24,36,Korean,Mobile,PayPal,649
+CUST0004,Rohan Sharma,North,Premium,MOV1004,Damsel,Fantasy,Movie,5,11,2026-06-19,176,English,Laptop,PayPal,649
+CUST0005,Rohan Patil,North,Basic,MOV1005,Damsel,Fantasy,Movie,3,4,2026-02-04,118,Spanish,TV,Card,199
+CUST0006,Ritika Gupta,West,Standard,MOV1006,Extraction,Action,Movie,5,20,2026-05-14,53,Spanish,Mobile,Net Banking,499
+CUST0007,Nikhil Patil,North,Basic,MOV1007,Leo,Animation,Movie,2,24,2026-01-23,93,English,Mobile,Card,199
+CUST0008,Meera Patil,East,Premium,MOV1008,The Gray Man,Action,Movie,2,2,2026-06-24,45,Hindi,Mobile,PayPal,649
+CUST0009,Priya Das,North,Premium,MOV1009,Damsel,Fantasy,Movie,3,20,2026-04-25,86,English,TV,Net Banking,649
+CUST0010,Ritika Joshi,East,Standard,MOV1010,Leo,Animation,Movie,3,7,2026-06-09,109,English,Tablet,UPI,499
+CUST0011,Vikas Singh,West,Premium,MOV1011,Squid Game,Thriller,TV Show,4,24,2026-05-18,131,Hindi,TV,PayPal,649
+CUST0012,Sahil Sharma,East,Premium,MOV1012,Stranger Things,Sci-Fi,TV Show,3,14,2026-06-03,161,Hindi,TV,Net Banking,649
+CUST0013,Ritika Das,West,Basic,MOV1013,The Gray Man,Action,Movie,3,21,2026-02-18,80,Japanese,TV,Net Banking,199
+CUST0014,Meera Sharma,North,Standard,MOV1014,Money Heist,Crime,TV Show,3,21,2026-04-11,99,Korean,Mobile,Net Banking,499
+CUST0015,Priya Kulkarni,West,Premium,MOV1015,Our Planet,Documentary,TV Show,5,5,2026-01-08,118,Japanese,Laptop,Card,649
+CUST0016,Sneha Shah,West,Standard,MOV1016,Extraction,Action,Movie,2,12,2026-06-12,92,Spanish,Mobile,Net Banking,499
+CUST0017,Meera Jadhav,South,Premium,MOV1017,The Witcher,Fantasy,TV Show,4,12,2026-04-05,165,Hindi,Laptop,Card,649
+CUST0018,Arjun Sharma,East,Basic,MOV1018,Wednesday,Mystery,TV Show,5,11,2026-04-03,30,English,Laptop,Card,199
+CUST0019,Rahul Das,South,Basic,MOV1019,The Gray Man,Action,Movie,2,3,2026-06-27,157,Japanese,Laptop,PayPal,199
+CUST0020,Arjun Gupta,West,Premium,MOV1020,The Gray Man,Action,Movie,1,6,2026-02-23,77,Korean,Tablet,Net Banking,649
+CUST0021,Rohan Verma,South,Premium,MOV1021,Wednesday,Mystery,TV Show,2,15,2026-06-10,41,Hindi,Tablet,Card,649
+CUST0022,Karan Patil,West,Standard,MOV1022,The Gray Man,Action,Movie,5,14,2026-01-23,41,Korean,Laptop,Card,499
+CUST0023,Meera Kulkarni,South,Basic,MOV1023,Damsel,Fantasy,Movie,2,20,2026-05-06,33,Korean,Laptop,PayPal,199
+CUST0024,Arjun Gupta,West,Basic,MOV1024,Squid Game,Thriller,TV Show,2,11,2026-03-02,145,English,TV,UPI,199
+CUST0025,Amit Singh,East,Premium,MOV1025,Stranger Things,Sci-Fi,TV Show,5,7,2026-02-24,87,Spanish,TV,PayPal,649
+CUST0026,Vikas Das,West,Standard,MOV1026,Money Heist,Crime,TV Show,4,14,2026-01-02,66,English,TV,PayPal,499
+CUST0027,Sneha Sharma,South,Premium,MOV1027,Squid Game,Thriller,TV Show,3,13,2026-04-06,144,Hindi,Laptop,Net Banking,649
+CUST0028,Vikas Joshi,East,Basic,MOV1028,Extraction,Action,Movie,1,14,2026-01-27,102,Korean,Mobile,PayPal,199
+CUST0029,Karan Jadhav,West,Basic,MOV1029,The Gray Man,Action,Movie,2,21,2026-05-30,149,English,Mobile,PayPal,199
+CUST0030,Ritika Shah,South,Standard,MOV1030,Wednesday,Mystery,TV Show,5,6,2026-05-27,54,Hindi,Mobile,Net Banking,499
+CUST0031,Nikhil Das,East,Standard,MOV1031,The Gray Man,Action,Movie,5,18,2026-06-09,39,English,Tablet,UPI,499
+CUST0032,Vikas Shah,South,Basic,MOV1032,Wednesday,Mystery,TV Show,3,8,2026-04-06,90,English,Laptop,UPI,199
+CUST0033,Karan Das,South,Basic,MOV1033,Damsel,Fantasy,Movie,2,6,2026-04-03,96,Japanese,Mobile,Card,199
+CUST0034,Ritika Shah,West,Basic,MOV1034,Squid Game,Thriller,TV Show,5,4,2026-06-26,173,English,Laptop,PayPal,199
+CUST0035,Amit Shah,East,Basic,MOV1035,Leo,Animation,Movie,5,21,2026-01-08,116,English,Mobile,Net Banking,199
+CUST0036,Karan Singh,South,Premium,MOV1036,Wednesday,Mystery,TV Show,5,16,2026-03-01,31,Spanish,TV,UPI,649
+CUST0037,Meera Verma,South,Basic,MOV1037,Extraction,Action,Movie,3,12,2026-06-22,69,Hindi,Laptop,Card,199
+CUST0038,Sahil Das,West,Standard,MOV1038,Damsel,Fantasy,Movie,4,21,2026-06-19,86,Hindi,Tablet,Card,499
+CUST0039,Rohan Gupta,North,Premium,MOV1039,The Gray Man,Action,Movie,2,14,2026-03-06,72,Hindi,Tablet,Net Banking,649
+CUST0040,Anjali Das,South,Premium,MOV1040,Squid Game,Thriller,TV Show,2,1,2026-06-20,150,Spanish,Mobile,PayPal,649
+CUST0041,Ritika Gupta,North,Basic,MOV1041,Extraction,Action,Movie,1,22,2026-03-17,119,Hindi,Tablet,Card,199
+CUST0042,Anjali Kulkarni,South,Standard,MOV1042,Extraction,Action,Movie,5,3,2026-01-25,84,Hindi,Tablet,Net Banking,499
+CUST0043,Amit Sharma,East,Premium,MOV1043,Our Planet,Documentary,TV Show,3,21,2026-04-10,162,Hindi,Tablet,UPI,649
+CUST0044,Vikas Patil,North,Standard,MOV1044,The Gray Man,Action,Movie,2,25,2026-05-16,127,Hindi,Tablet,Card,499
+CUST0045,Arjun Verma,South,Premium,MOV1045,Squid Game,Thriller,TV Show,3,6,2026-03-17,68,Spanish,Mobile,Net Banking,649
+CUST0046,Sahil Gupta,South,Basic,MOV1046,Wednesday,Mystery,TV Show,4,15,2026-02-23,124,English,Laptop,Card,199
+CUST0047,Karan Sharma,East,Standard,MOV1047,Wednesday,Mystery,TV Show,4,18,2026-02-27,59,Korean,Laptop,UPI,499
+CUST0048,Anjali Joshi,North,Basic,MOV1048,Damsel,Fantasy,Movie,4,14,2026-03-12,130,Spanish,Laptop,Net Banking,199
+CUST0049,Amit Das,West,Premium,MOV1049,The Gray Man,Action,Movie,2,23,2026-01-22,160,Hindi,Tablet,UPI,649
+CUST0050,Amit Sharma,East,Premium,MOV1050,Leo,Animation,Movie,3,6,2026-05-20,90,English,Mobile,UPI,649
+CUST0051,Karan Das,North,Basic,MOV1051,The Gray Man,Action,Movie,3,19,2026-04-18,32,Japanese,Laptop,Card,199
+CUST0052,Rohan Sharma,South,Standard,MOV1052,The Witcher,Fantasy,TV Show,5,21,2026-04-01,35,Japanese,Laptop,UPI,499
+CUST0053,Amit Verma,East,Premium,MOV1053,Leo,Animation,Movie,5,13,2026-05-06,120,Korean,TV,UPI,649
+CUST0054,Pooja Patil,West,Basic,MOV1054,Our Planet,Documentary,TV Show,5,19,2026-01-16,98,Hindi,TV,Card,199
+CUST0055,Arjun Singh,South,Standard,MOV1055,Our Planet,Documentary,TV Show,2,21,2026-01-08,169,Hindi,Laptop,PayPal,499
+CUST0056,Arjun Kulkarni,North,Basic,MOV1056,Extraction,Action,Movie,5,19,2026-06-28,142,English,Tablet,Card,199
+CUST0057,Anjali Patil,West,Basic,MOV1057,Extraction,Action,Movie,3,24,2026-02-01,112,Spanish,Mobile,Card,199
+CUST0058,Karan Shah,East,Basic,MOV1058,Extraction,Action,Movie,1,25,2026-03-29,148,Japanese,Laptop,UPI,199
+CUST0059,Nikhil Singh,West,Standard,MOV1059,The Witcher,Fantasy,TV Show,4,7,2026-02-05,73,Japanese,TV,Card,499
+CUST0060,Ritika Shah,South,Standard,MOV1060,Damsel,Fantasy,Movie,5,21,2026-04-02,102,English,TV,Card,499
+CUST0061,Amit Das,East,Premium,MOV1061,The Witcher,Fantasy,TV Show,3,6,2026-03-03,114,Korean,Mobile,PayPal,649
+CUST0062,Vikas Sharma,West,Basic,MOV1062,The Gray Man,Action,Movie,3,24,2026-02-08,106,English,Tablet,PayPal,199
+CUST0063,Rahul Gupta,North,Basic,MOV1063,Squid Game,Thriller,TV Show,3,10,2026-03-02,43,Hindi,Laptop,PayPal,199
+CUST0064,Sneha Shah,South,Basic,MOV1064,The Gray Man,Action,Movie,1,11,2026-05-17,85,Korean,TV,UPI,199
+CUST0065,Karan Sharma,South,Standard,MOV1065,Stranger Things,Sci-Fi,TV Show,4,19,2026-06-26,101,Hindi,Mobile,UPI,499
+CUST0066,Amit Jadhav,South,Premium,MOV1066,Damsel,Fantasy,Movie,3,1,2026-02-04,64,Spanish,Mobile,Card,649
+CUST0067,Ritika Shah,South,Basic,MOV1067,Money Heist,Crime,TV Show,4,8,2026-05-05,179,Hindi,Tablet,Net Banking,199
+CUST0068,Ritika Shah,North,Basic,MOV1068,Squid Game,Thriller,TV Show,3,11,2026-05-03,125,Japanese,Tablet,UPI,199
+CUST0069,Rohan Singh,West,Standard,MOV1069,The Gray Man,Action,Movie,2,6,2026-04-21,74,English,Tablet,PayPal,499
+CUST0070,Pooja Gupta,East,Premium,MOV1070,Damsel,Fantasy,Movie,1,21,2026-05-05,167,English,TV,UPI,649
+CUST0071,Pooja Jadhav,East,Standard,MOV1071,Our Planet,Documentary,TV Show,5,12,2026-03-01,112,English,TV,Card,499
+CUST0072,Meera Sharma,North,Basic,MOV1072,Leo,Animation,Movie,3,1,2026-02-17,140,Japanese,Laptop,Net Banking,199
+CUST0073,Vikas Joshi,North,Standard,MOV1073,Extraction,Action,Movie,1,23,2026-04-30,171,English,Laptop,Card,499
+CUST0074,Arjun Patil,North,Premium,MOV1074,Squid Game,Thriller,TV Show,5,25,2026-03-17,148,Japanese,Tablet,Net Banking,649
+CUST0075,Sneha Das,West,Premium,MOV1075,Wednesday,Mystery,TV Show,1,4,2026-03-17,113,Spanish,Tablet,Net Banking,649
+CUST0076,Pooja Kulkarni,West,Premium,MOV1076,The Witcher,Fantasy,TV Show,4,3,2026-05-17,33,Korean,Mobile,Card,649
+CUST0077,Rohan Shah,North,Basic,MOV1077,The Gray Man,Action,Movie,2,19,2026-02-04,47,Hindi,Laptop,Card,199
+CUST0078,Neha Sharma,South,Standard,MOV1078,Damsel,Fantasy,Movie,5,4,2026-05-22,66,Korean,TV,UPI,499
+CUST0079,Rohan Das,West,Standard,MOV1079,Stranger Things,Sci-Fi,TV Show,5,7,2026-02-04,50,English,TV,Card,499
+CUST0080,Rohan Das,West,Basic,MOV1080,The Witcher,Fantasy,TV Show,3,23,2026-03-02,118,English,TV,UPI,199
+CUST0081,Amit Singh,West,Premium,MOV1081,Money Heist,Crime,TV Show,3,23,2026-05-06,57,Spanish,Laptop,PayPal,649
+CUST0082,Neha Patil,South,Standard,MOV1082,Squid Game,Thriller,TV Show,4,14,2026-04-27,94,Hindi,TV,PayPal,499
+CUST0083,Neha Singh,North,Basic,MOV1083,Wednesday,Mystery,TV Show,4,21,2026-03-18,34,Japanese,Laptop,PayPal,199
+CUST0084,Arjun Joshi,South,Standard,MOV1084,Damsel,Fantasy,Movie,4,20,2026-06-27,126,Hindi,Mobile,Card,499
+CUST0085,Vikas Gupta,South,Basic,MOV1085,Money Heist,Crime,TV Show,3,20,2026-01-02,58,Japanese,Tablet,PayPal,199
+CUST0086,Vikas Jadhav,West,Premium,MOV1086,Leo,Animation,Movie,2,4,2026-04-24,57,Korean,Mobile,Net Banking,649
+CUST0087,Vikas Singh,South,Basic,MOV1087,The Witcher,Fantasy,TV Show,3,24,2026-06-04,134,Spanish,TV,UPI,199
+CUST0088,Pooja Das,West,Standard,MOV1088,Damsel,Fantasy,Movie,4,18,2026-02-19,96,Spanish,Mobile,UPI,499
+CUST0089,Anjali Singh,East,Basic,MOV1089,Wednesday,Mystery,TV Show,2,5,2026-04-09,92,Korean,TV,Net Banking,199
+CUST0090,Rahul Sharma,South,Premium,MOV1090,The Witcher,Fantasy,TV Show,4,10,2026-05-23,70,Japanese,Mobile,Card,649
+CUST0091,Ritika Shah,West,Premium,MOV1091,Money Heist,Crime,TV Show,2,1,2026-05-27,173,Spanish,Laptop,Card,649
+CUST0092,Amit Jadhav,West,Standard,MOV1092,Wednesday,Mystery,TV Show,3,9,2026-03-08,136,Spanish,TV,UPI,499
+CUST0093,Pooja Jadhav,North,Standard,MOV1093,The Gray Man,Action,Movie,3,18,2026-04-12,83,Hindi,Tablet,PayPal,499
+CUST0094,Pooja Joshi,East,Basic,MOV1094,Money Heist,Crime,TV Show,3,21,2026-06-16,80,English,Mobile,UPI,199
+CUST0095,Meera Singh,North,Standard,MOV1095,The Witcher,Fantasy,TV Show,1,14,2026-03-15,169,English,Tablet,Card,499
+CUST0096,Arjun Kulkarni,West,Standard,MOV1096,Damsel,Fantasy,Movie,3,25,2026-01-13,66,Korean,Laptop,PayPal,499
+CUST0097,Sahil Verma,South,Basic,MOV1097,Stranger Things,Sci-Fi,TV Show,1,17,2026-06-13,104,Korean,Tablet,Net Banking,199
+CUST0098,Neha Das,North,Premium,MOV1098,The Witcher,Fantasy,TV Show,3,20,2026-01-02,132,Hindi,Tablet,Card,649
+CUST0099,Karan Verma,North,Standard,MOV1099,Money Heist,Crime,TV Show,3,6,2026-05-08,169,Hindi,Mobile,Net Banking,499
+CUST0100,Sneha Sharma,West,Basic,MOV1100,The Witcher,Fantasy,TV Show,4,17,2026-05-04,59,Korean,TV,Net Banking,199
